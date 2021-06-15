@@ -1,0 +1,11 @@
+Boring Tasks:
+1.Creating a class
+2.Acess token
+3.Using the terminal
+4.While loop
+
+Fun Tasks:
+1.Take pictures using our webcam 
+2.Uploadind pictures & files to dropbox
+3.Transfering data
+4.Doing the self.
